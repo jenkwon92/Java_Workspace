@@ -45,7 +45,7 @@ public class Program extends JPanel {
    Image img;
    File file;
    ProgramList programList;
-   JFileChooser chooser = new JFileChooser("D:/workspace/java/SeProject/res/travel2");
+   JFileChooser chooser = new JFileChooser("D:/workspace/js_workspace/images/project_gym");
    Toolkit kit = Toolkit.getDefaultToolkit();
    String days[] = { "월,수,금", "화,목" };
    String program_name[] = { "스피닝", "뮤직복싱", "줌바", "필라테스", "요가" };
